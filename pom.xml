@@ -13,6 +13,7 @@
         <module>demo-app</module>
         <module>demo-agent-sdk</module>
         <module>demo-agent-plugins</module>
+        <module>bytecode</module>
     </modules>
 
     <properties>
